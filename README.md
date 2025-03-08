@@ -17,4 +17,4 @@ This project is implemented in Java using Apache Mahout for machine learning-bas
 Maven:For managing dependencies like Apache Mahout
 Dependencies:Apache Mahout(for collaborative filtering and similarity computations).
 
-##OUTPUT:
+##OUTPUT:![Image](https://github.com/user-attachments/assets/afd60307-204f-485b-98ac-f408dab93bcd)
